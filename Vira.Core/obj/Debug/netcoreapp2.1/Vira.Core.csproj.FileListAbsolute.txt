@@ -1,0 +1,9 @@
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Core\bin\Debug\netcoreapp2.1\Vira.Core.deps.json
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Core\bin\Debug\netcoreapp2.1\Vira.Core.dll
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Core\bin\Debug\netcoreapp2.1\Vira.Core.pdb
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Core\obj\Debug\netcoreapp2.1\Vira.Core.csprojAssemblyReference.cache
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Core\obj\Debug\netcoreapp2.1\Vira.Core.csproj.CoreCompileInputs.cache
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Core\obj\Debug\netcoreapp2.1\Vira.Core.AssemblyInfoInputs.cache
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Core\obj\Debug\netcoreapp2.1\Vira.Core.AssemblyInfo.cs
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Core\obj\Debug\netcoreapp2.1\Vira.Core.dll
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Core\obj\Debug\netcoreapp2.1\Vira.Core.pdb
