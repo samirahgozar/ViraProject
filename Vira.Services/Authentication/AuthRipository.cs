@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Vira.Core.Domain;
@@ -40,6 +41,22 @@ namespace Vira.Services.Authentication
         {
             return await _context.Users.AnyAsync(x => x.Username == username);
 
+        }
+
+
+        public string GetFullErrorTextAndRollbackEntityChanges(DbUpdateException exception)
+        {
+            //rollback entity changes
+            if (_context is DbContext dbContext)
+            {
+                var entries = dbContext.ChangeTracker.Entries()
+                    .Where(e => e.State == EntityState.Added || e.State == EntityState.Modified).ToList();
+
+                entries.ForEach(entry => entry.State = EntityState.Unchanged);
+            }
+
+            _context.SaveChanges();
+            return exception.ToString();
         }
 
     }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Vira.Core.Domain
 {
-    public class User
+    public class User : BaseEntity
     {
         public string Username { get; set; }
         public string Email { get; set; }

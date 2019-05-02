@@ -34,3 +34,5 @@ P:\Tutorials\01-Projects\TarhAndishan\Presentation\Vira.Web\obj\Debug\netcoreapp
 P:\Tutorials\01-Projects\TarhAndishan\Presentation\Vira.Web\obj\Debug\netcoreapp2.1\Vira.Web.csproj.CopyComplete
 P:\Tutorials\01-Projects\TarhAndishan\Presentation\Vira.Web\obj\Debug\netcoreapp2.1\Vira.Web.dll
 P:\Tutorials\01-Projects\TarhAndishan\Presentation\Vira.Web\obj\Debug\netcoreapp2.1\Vira.Web.pdb
+P:\Tutorials\01-Projects\TarhAndishan\Presentation\Vira.Web\bin\Debug\netcoreapp2.1\Vira.Services.dll
+P:\Tutorials\01-Projects\TarhAndishan\Presentation\Vira.Web\bin\Debug\netcoreapp2.1\Vira.Services.pdb

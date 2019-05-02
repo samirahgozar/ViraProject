@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,5 +12,7 @@ namespace Vira.Services.Authentication
         Task<User> Register(User user, string password);
         Task<User> Login(string username, string password);
         Task<bool> UserExist(string username);
+        string GetFullErrorTextAndRollbackEntityChanges(DbUpdateException exception);
+       
     }
 }

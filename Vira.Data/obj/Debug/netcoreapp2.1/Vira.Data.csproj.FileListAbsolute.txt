@@ -10,3 +10,5 @@ P:\Tutorials\01-Projects\TarhAndishan\Vira.Data\obj\Debug\netcoreapp2.1\Vira.Dat
 P:\Tutorials\01-Projects\TarhAndishan\Vira.Data\obj\Debug\netcoreapp2.1\Vira.Data.csproj.CopyComplete
 P:\Tutorials\01-Projects\TarhAndishan\Vira.Data\obj\Debug\netcoreapp2.1\Vira.Data.dll
 P:\Tutorials\01-Projects\TarhAndishan\Vira.Data\obj\Debug\netcoreapp2.1\Vira.Data.pdb
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Data\bin\Debug\netcoreapp2.1\Vira.Data.runtimeconfig.json
+P:\Tutorials\01-Projects\TarhAndishan\Vira.Data\bin\Debug\netcoreapp2.1\Vira.Data.runtimeconfig.dev.json

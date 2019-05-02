@@ -5,13 +5,22 @@
   </PropertyGroup>
 
   <ItemGroup>
+    
+    
+    
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="4.0.1" />
+    
+    
+    
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="2.1.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\..\Vira.Core\Vira.Core.csproj" />
     <ProjectReference Include="..\..\Vira.Data\Vira.Data.csproj" />
+    <ProjectReference Include="..\..\Vira.Services\Vira.Services.csproj" />
   </ItemGroup>
 
 </Project>
